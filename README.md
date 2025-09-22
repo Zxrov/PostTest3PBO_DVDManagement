@@ -32,6 +32,16 @@ Fitur utama mencakup:
 
 Ini adalah tampilan menu dari hasil running project DVDpenyewaan.
 
+---
+
+<img width="634" height="106" alt="Screenshot 2025-09-22 141322" src="https://github.com/user-attachments/assets/639f6dd6-65af-45f1-80b7-90c2745a862a" />
+
+<img width="585" height="97" alt="image" src="https://github.com/user-attachments/assets/6c371831-236b-49e5-9943-daf9bd3cf3ab" />
+
+Ini adalah contoh untuk menambah data dari DVD dan Film.
+User diharuskan untuk mengisi ID DVD/ Film. Judul, Genre, Format, Platform untuk menampilkan isi data.
+
+
 
 
 
