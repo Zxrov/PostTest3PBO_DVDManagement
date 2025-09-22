@@ -46,7 +46,7 @@ User diharuskan untuk mengisi ID DVD/ Film. Judul, Genre, Format, Platform untuk
 <img width="695" height="76" alt="image" src="https://github.com/user-attachments/assets/feb4e2a1-7593-43b2-925f-9f1704effb3e" />
 
 Ini adalah contoh untuk melihat daftar dari DVD dan Film.
-User diharuskan untuk menmasukkan ID Nomor 3 dari daftar menu program
+User diharuskan untuk memilih ID Nomor 3 dari daftar menu program.
 
 
 
