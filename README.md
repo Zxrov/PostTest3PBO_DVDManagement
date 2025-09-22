@@ -14,7 +14,7 @@ Fitur utama mencakup:
 
 ---
 
-## ✨ Fitur Program  
+## ✨ Daftar Menu Program  
 - Tambah DVD
 - Tambah Film
 - Lihat daftar DVD/Film
