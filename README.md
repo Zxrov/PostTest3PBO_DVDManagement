@@ -26,53 +26,12 @@ Fitur utama mencakup:
 
 ---
 
-## 🚀 Cara Menjalankan  
-1. Clone repository ini.  
-2. Buka di **NetBeans** atau IDE Java lainnya.  
-3. Pastikan `MainApp` diset sebagai **Main Class**.  
-4. Jalankan program dengan **Run Project (F6)**.  
+## 🔄 Dokumentasi Menu Program  
 
----
+<img width="998" height="327" alt="image" src="https://github.com/user-attachments/assets/5bc05c27-f85b-4336-82d1-b0d1a4b65ff3" />
 
-## 📖 Contoh Jalannya Program
-=== Sistem Manajemen Penyewaan DVD ===
+Ini adalah tampilan menu dari hasil running project DVDpenyewaan.
 
-Tambah DVD
-
-Lihat Daftar DVD
-
-Update DVD
-
-Hapus DVD
-
-Sewa DVD
-
-Kembalikan DVD
-
-Keluar
-
-
----
-
-### 📌 Penjelasan MVC
-- **Model (`model/DVD.java`)**  
-  Berisi struktur data DVD: `id`, `judul`, `genre`, dan `status`.  
-  - Menerapkan **constructor** untuk inisialisasi data.  
-  - Menggunakan **access modifier (private)** dengan getter dan setter.  
-
-- **View & Controller (`main/MainApp.java`)**  
-  - View: Menampilkan menu dan menerima input dari user (Scanner).  
-  - Controller: Menghubungkan input user ke logika program (memanggil method di `DVDService`).  
-
-- **Service (`service/DVDService.java`)**  
-  Berisi logika utama program:  
-  - Menyimpan data DVD di dalam `ArrayList`.  
-  - Operasi CRUD (tambah, lihat, update, hapus).  
-  - Operasi khusus penyewaan dan pengembalian DVD.  
-
----
-
-## 🔄 Alur Program  
 
 
 
