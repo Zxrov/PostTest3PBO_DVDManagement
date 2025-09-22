@@ -14,7 +14,7 @@ Fitur utama mencakup:
 
 ---
 
-## ✨ Daftar Menu Program  
+## Daftar Menu Program  
 - Tambah DVD
 - Tambah Film
 - Lihat daftar DVD/Film
@@ -26,7 +26,22 @@ Fitur utama mencakup:
 
 ---
 
-## 🔄 Dokumentasi Menu Program  
+## Penerapan Nilai Tambah (Override)
+
+<img width="758" height="146" alt="image" src="https://github.com/user-attachments/assets/4e3da67d-09b1-4d93-8f33-837dce452b9b" />
+<img width="710" height="153" alt="image" src="https://github.com/user-attachments/assets/15e92fdc-1c5f-436c-ad67-012897625821" />
+
+Pada program ini, method tampilkanInfo() didefinisikan di superclass Film sebagai method umum.
+Kemudian di subclass DVD dan OnlineMovie, method tersebut di-override dengan implementasi berbeda sesuai kebutuhan:
+
+Di DVD, informasi yang ditampilkan meliputi ID, Judul, Genre, Status, dan Format DVD.
+Di OnlineMovie, informasi yang ditampilkan meliputi ID, Judul, Genre, Status, dan Platform online.
+
+Dengan override, meskipun pemanggilannya sama (film.tampilkanInfo()), output yang muncul akan menyesuaikan jenis objeknya (DVD atau OnlineMovie).
+
+---
+
+## Dokumentasi Menu Program  
 
 <img width="998" height="327" alt="image" src="https://github.com/user-attachments/assets/5bc05c27-f85b-4336-82d1-b0d1a4b65ff3" />
 
